@@ -17,6 +17,14 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "baseUrl": ".",
-    "types": ["node", "@docusaurus/module-type-aliases", "@docusaurus/theme-classic"]
-  }
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "types": [
+      "node",
+      "@docusaurus/module-type-aliases",
+      "@docusaurus/theme-classic"
+    ]
+  },
+  "include": ["src", "blog", "static", "i18n", "docs", "temp"]
 }

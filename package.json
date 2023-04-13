@@ -2,7 +2,7 @@
   "name": "wiki",
   "version": "0.0.0",
   "private": true,
-  "author": "Bruce Song",
+  "author": "Liq Zhang",
   "description": "This is my personal wiki for recording what I learnt.",
   "scripts": {
     "docusaurus": "docusaurus",

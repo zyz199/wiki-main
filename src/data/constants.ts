@@ -60,8 +60,8 @@ const GMAIL = "GMail";
 const TWITTER = "Twitter";
 const WECHAT = "微信";
 const ZHIHU = "知乎";
-const GITHUB_LINK = "https://github.com/recallwei/";
-const TELEGRAM_LINK = "https://t.me/recallwei/";
+const GITHUB_LINK = "https://github.com/zyz199/";
+const TELEGRAM_LINK = "https://t.me/zyz199/";
 const GMAIL_ADDRESS = "zhangyz652@gmail.com";
 const WECHAT_ACCOUNT = "LastAdieus";
 

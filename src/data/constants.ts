@@ -62,7 +62,7 @@ const WECHAT = "微信";
 const ZHIHU = "知乎";
 const GITHUB_LINK = "https://github.com/recallwei/";
 const TELEGRAM_LINK = "https://t.me/recallwei/";
-const GMAIL_ADDRESS = "recall4056@gmail.com";
+const GMAIL_ADDRESS = "zhangyz652@gmail.com";
 const WECHAT_ACCOUNT = "LastAdieus";
 
 interface FrontendMenuData {

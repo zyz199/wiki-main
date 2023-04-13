@@ -7,7 +7,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 require("dotenv").config();
 
-/** @type {import('@docusaurus/types').Config} */
 const config = {
   // 自定义字段
   customFields: {

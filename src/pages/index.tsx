@@ -17,7 +17,6 @@ import {
   othersGridList,
   othersMenuData,
 } from "@site/src/data";
-import GridList from "@site/src/components/GridList";
 import styles from "./styles.module.css";
 import favicon from "@site/static/img/favicon/favicon.png";
 import github from "@site/static/img/icon/github.png";

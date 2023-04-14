@@ -113,21 +113,6 @@ const config = {
         },
         hideOnScroll: false,
         items: [
-          {
-            type: "docSidebar",
-            label: "JavaScript",
-            sidebarId: "javascript",
-          },
-          {
-            type: "docSidebar",
-            label: "Visual Studio Code",
-            sidebarId: "visualStudioCode",
-          },
-          {
-            type: "docSidebar",
-            label: "Algorithm",
-            sidebarId: "algorithm",
-          },
           // { type: "localeDropdown", position: "right" },
           {
             type: "search",
